@@ -38,3 +38,35 @@ Nếu có thêm thời gian, em sẽ thử nghiệm:
 * Thu thập data bất động sản theo từng mốc thời gian để có thể dự đoán được giá nhà trong tương lai gần hoặc xa.
 
 * Phát triển web application hoặc dashboard tương tác để người dùng có thể dự đoán giá nhà một cách trực quan và dễ dàng.
+
+### 23127190 - Võ Trung Hiếu
+
+#### 1. What difficulties have you encountered?
+
+Em đã gặp những khó khăn như sau:
+
+* **Khâu đặt câu hỏi**: Việc tìm một câu hỏi có ý nghĩa vừa phù hợp với yêu cầu đồ án và mang ý nghĩa thực tế là một vấn đề khá là khó khăn, nhất là khi các câu hỏi của các thành viên khác đều đã rất hay.
+
+* **Khâu xây dựng mô hình**: Việc lựa chọn các đặc trưng phù hợp và tối ưu hóa mô hình để đạt được kết quả tốt nhưng vẫn đảm bảo tốc độ xử lý hợp lý.
+
+#### 2. What have you learned?
+
+Thông qua đồ án này, em đã tích lũy được những kinh nghiệm và kỹ năng chuyên môn giá trị:
+
+* **Tối ưu hóa quy trình tiền xử lý**: Thành thạo kỹ thuật làm sạch dữ liệu thực tế, từ việc xử lý dữ liệu khuyết thiếu (missing values), khử nhiễu (outliers) đến chuẩn hóa dữ liệu đa nguồn.
+
+* **Tư duy dữ liệu hệ thống**: Hiểu rõ mối liên hệ mật thiết giữa chất lượng dữ liệu đầu vào và hiệu suất của mô hình dự báo.
+
+* **Kỹ nghệ đặc trưng (Feature Engineering)**: Biết cách khai thác và xây dựng các biến số có giá trị cao, đặc biệt là các đặc trưng ảnh hưởng trực tiếp đến giá trị bất động sản.
+
+* **Quản trị dự án hiệu quả**: Xây dựng tư duy tổ chức công việc khoa học thông qua cấu trúc thư mục chuẩn và quản lý phiên bản bằng Git/GitHub."
+
+* **Có thêm kiến thức về các đặc trưng bất động sản phổ biến ở Thành phố Hồ Chí Minh, Hà Nội**: Thông qua đồ án em đã có một cái nhìn tổng quan hơn về các đặc trưng và xu hướng bất động sản.
+
+#### 3. What would you do if you had more time?
+
+* Thêm các đặc trưng như khoảng cách đến các tiện ích như metro, trường học giúp mô hình hoạt động tốt hơn
+
+* Thu thập thêm data ở nhiều khoảng thời gian khác nhau để nhận thấy được sự biến động của thị trường bất động sản
+
+* Sử dụng thêm nhiều model để có thể nhận biết được loại model nào phù hợp
