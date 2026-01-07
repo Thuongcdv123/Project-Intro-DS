@@ -70,3 +70,30 @@ Thông qua đồ án này, em đã tích lũy được những kinh nghiệm và
 * Thu thập thêm data ở nhiều khoảng thời gian khác nhau để nhận thấy được sự biến động của thị trường bất động sản
 
 * Sử dụng thêm nhiều model để có thể nhận biết được loại model nào phù hợp
+
+### 23127083 - Phạm Khánh Linh
+
+#### 1. What difficulties have you encountered?
+
+Trong quá trình thực hiện đồ án, em gặp những khó khăn:
+
+* **Khâu thu thập dữ liệu (Trích xuất thông tin từ HTML)**: Web em được giao có cơ chế chống cào, mỗi lần vào web là các thẻ đổi tên, ngoài ra còn một vài cơ chế ẩn khiến việc cào ban đầu gặp khá nhiều khó khăn và rất tốn thời gian, sau khi nghiên cứu thì em cào bằng các keyword, vị trí thẻ chứ không bằng tên thẻ nữa. 
+
+* **Khâu đặt câu hỏi**: Các câu hỏi về nhà ở thường chỉ xoay quanh giá nhà nên các câu hỏi sẽ dễ bị trùng domain và cho ra các insight trùng hoặc mâu thuẫn với nhau, vì vậy chúng em phải cẩn thận hơn và chia ra mục đích mỗi câu hỏi phục vụ cho tệp khách hàng như nào.
+
+#### 2. What have you learned?
+
+Qua đồ án này, em đã học được nhiều kiến thức và kỹ năng:
+
+* **Kỹ năng thu thập dữ liệu**: Em học được kỹ năng cào từ web có tên thẻ động.
+
+* **Feature Engineering**: Em nghĩ tín hiệu tâm lý qua ngôn từ trong tiêu đề bài đăng là yếu tố quan trọng ảnh hưởng đến giá nhà, và sau khi thử thì cho kết quả dự đoán khá tốt.
+
+* **Kiến thức thị trường**: Đồ án cũng cho em cái nhìn tổng quan về thị trường nhà ở 2 thành phố lớn ở nước ta, trong đó cũng cho em cái nhìn lạc quan hơn về giá nhà ở Tp.HCM.
+
+#### 3. What would you do if you had more time?
+
+Nếu có thêm thời gian, em sẽ thử nghiệm:
+
+* Dùng nhiều model và phương pháp đánh giá, xử lý dữ liệu.
+* Thử nghiệm tạo nhiều bộ feature khác (ví dụ như thêm khoảng cách từ nhà đến trường học, mall, quảng trường, ga metro,...) và xem kết quả.
