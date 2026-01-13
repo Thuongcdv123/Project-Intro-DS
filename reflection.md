@@ -97,3 +97,9 @@ Nếu có thêm thời gian, em sẽ thử nghiệm:
 
 * Dùng nhiều model và phương pháp đánh giá, xử lý dữ liệu.
 * Thử nghiệm tạo nhiều bộ feature khác (ví dụ như thêm khoảng cách từ nhà đến trường học, mall, quảng trường, ga metro,...) và xem kết quả.
+
+### 23127493 - Võ Hoàng Thương
+
+- Em gặp một số khó khăn trong quá trình cào dữ liệu do chưa quen các thư viện và 1 số khó khăn khác khi đặt ra câu hỏi có ý nghĩa để phân tích vì chưa thật sự giỏi trong việc phân tích dữ liệu và domain cũng không quá sành sỏi
+
+- Qua đồ án này em học được rất nhiều: từ cách dùng các thư viện để cào dữ liệu đến việc xử lí dữ liệu nhiễu và phân tích dựa trên dữ liệu đã cào ngoài ra còn học được một số thứ như cách sử dụng github, cách làm việc nhóm,...
